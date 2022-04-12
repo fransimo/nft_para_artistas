@@ -5,7 +5,7 @@ extra:
 
 nav:
   - '¡Hola mundo!': 'index.md'
-  - 'Inroducción':
+  - 'S01E01 - Introducción':
     - '¿Qué es un blockchain?': '01_introduction/blockchain.md'
     - 'Plataformas':  '01_introduction/markets.md'
     - 'Cómo crear un monedero Metamask': '01_introduction/metamask.md'
@@ -17,9 +17,9 @@ nav:
     - 'Show me the money!': '01_introduction/show_me_the_money.md'
     - 'Cómo hacer colecciones colaborativas': '01_introduction/collab.md'
     - 'Ciber seguridad': '01_introduction/cyber_security.md'
-  - 'Ética': '02_ethics/index.md'
-  - 'Estética': '03_aesthetics/index.md'
-  - 'Mercado': '04_market/index.md'
+  - 'S01E02 - Ética y política': '02_ethics/index.md'
+  - 'S01E03 - Estética': '03_aesthetics/index.md'
+  - 'S01E04 - Mercado': '04_market/index.md'
   - 'A cerca de':
       - 'Fran Simó': 'fran_simo.md'
       - 'Casa Planas': 'casa_planas.md'
