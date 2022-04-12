@@ -19,3 +19,12 @@
 - Bitcoin Mallorca
 - Libros?
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+
+
+dh_knzigq@nft-para-artistas.fransimo.info
+
+hC6v*BM!
+
+
+        env:
+          dest: 'dh_knzigq@nft-para-artistas.fransimo.info/home/dh_knzigq/nft-para-artistas.fransimo.info' 
