@@ -1,0 +1,1 @@
+Comprar NFT de pruebas y venderlos en el mercado secundario

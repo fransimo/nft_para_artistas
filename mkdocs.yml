@@ -1,0 +1,59 @@
+site_name: "NFT para Artistas"
+repo_url: https://github.com/fransimo/nft_para_artistas
+extra:
+    version: 1.0.0
+
+nav:
+  - '¡Hola mundo!': 'index.md'
+  - 'Inroducción':
+    - '¿Qué es un blockchain?': '01_introduction/blockchain.md'
+    - 'Plataformas':  '01_introduction/markets.md'
+    - 'Cómo crear un monedero Metamask': '01_introduction/metamask.md'
+    - 'Comprar o vender NFT se hace con criptomonedas': '01_introduction/buy_sell.md'
+    - 'Cómo crear una cuenta en OpenSea': '01_introduction/opensea.md'
+    - 'Cómo crear una colección': '01_introduction/collection.md'
+    - 'Publicación de NFTs, opciones de venta, subasta, etc.': '01_introduction/publish.md'
+    - 'Comprar NFTs': '01_introduction/buy_sell_nft.md'
+    - 'Show me the money!': '01_introduction/show_me_the_money.md'
+    - 'Cómo hacer colecciones colaborativas': '01_introduction/collab.md'
+  - 'Ética': '02_ethics/index.md'
+  - 'Estética': '03_aesthetics/index.md'
+  - 'Mercado': '04_market/index.md'
+  - 'A cerca de':
+      - 'Fran Simó': 'fran_simo.md'
+      - 'Casa Planas': 'casa_planas.md'
+      - 'License': 'license.md'
+      - 'Release Notes': 'release-notes.md'
+  - 'Recursos': 'resources.md'
+
+theme:
+  # name: mkdocs
+  # name: bootstrap386
+  # name: readthedocs
+  # name: ivory
+  # name: gitbook
+  logo: assets/logo.png
+  language: es
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: grey
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: grey
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+
+  locale: es
+  navigation_depth: 10
+  prev_next_buttons_location: both
+  collapse_navigation: False
