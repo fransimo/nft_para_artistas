@@ -12,5 +12,10 @@
   - Binance
   - FTX
   - KuCoin
+- YouTube y Podcast
+  - Lunaticoin
+  - Coinboreau
+  - Alguno de seguridad
+- Bitcoin Mallorca
 - Libros?
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)

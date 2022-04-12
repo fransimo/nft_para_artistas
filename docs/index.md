@@ -13,9 +13,9 @@ Por esto lo haremos en remoto y lo ideal sería que pudieras seguir los pasos co
 saber un poco más de ti y para poder enviar el link de conexión. No es obligatorio apuntarse, en el momento de la clase
 publicaremos el link de conexión en las redes sociales.
 
-El segundo encuentro aún no tiene una fecha definida pero será un charla sobre los aspectos éticos de utilizar esta
-tecnología. Enseñar cómo crear NFTs sin un contexto ético, político y medioambiental sería como dar un arma cargada a un
-niño. Aunque la primera clase tiene un sentido práctico es solo una herramienta pedagógica.
+El **segundo encuentro** aún no tiene una fecha definida pero será un charla sobre los aspectos éticos de utilizar esta
+tecnología. **Enseñar cómo crear NFTs sin un contexto ético, político y medioambiental sería como dar un arma cargada a un
+niño.** Aunque la primera clase tiene un sentido práctico es solo una herramienta pedagógica.
 
 Después de estos dos primeros pasos fundamentales podremos aventurarnos a un debate estético en un tercer encuentro y a
 uno de mercado en un cuarto.

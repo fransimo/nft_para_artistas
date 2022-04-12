@@ -1,3 +1,5 @@
+# Comprar o vender NFT se hace con criptomonedas
+
 cómo compro criptos, (por esto tienen que pasar los clientes) 
 KYC
 cómo puedo venderlas, 
