@@ -48,5 +48,5 @@ jobs:
             --exclude /deploy_key \
             --exclude /.git/ \
             --exclude /.github/ \
-            ./site/ ${{secrets.DEST}}
+            ./site/ dh_knzigq@nft-para-artistas.fransimo.info:/home/dh_knzigq/nft-para-artistas.fransimo.info
           rm deploy_key
