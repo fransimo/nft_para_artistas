@@ -45,6 +45,8 @@
 
 Esto fue inventado como in dígito del control, una forma de saber si quien había escrito el DNI había cometido un error. Incluso, si asumimos que el error es en una sola letra podemos corregirlo.
 
+¿Habéis visto la película de Enigma?
+
 ### Función de hash
 
 Esto: a76299605c4a32fc669459227124452e es el "¡Hola mundo!" en [MD5](https://md5calc.com/hash/md5/%C2%A1Hola+mundo%21).
