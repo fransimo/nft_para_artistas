@@ -11,9 +11,9 @@ nav:
   - '¡Hola mundo!': 'hello_world.md'
   - 'S01E01 - Introducción':
     - '¿Qué es un blockchain?': '01_introduction/blockchain.md'
-    - 'Plataformas':  '01_introduction/markets.md'
     - 'Cómo crear un monedero Metamask': '01_introduction/metamask.md'
     - 'Comprar o vender NFT se hace con criptomonedas': '01_introduction/buy_sell.md'
+    - 'Plataformas':  '01_introduction/markets.md'
     - 'Cómo crear una cuenta en OpenSea': '01_introduction/opensea.md'
     - 'Cómo crear una colección': '01_introduction/collection.md'
     - 'Publicación de NFTs, opciones de venta, subasta, etc.': '01_introduction/publish.md'
