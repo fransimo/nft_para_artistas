@@ -1,14 +1,18 @@
 # ¿Qué es un blockchain?
 
-## La letra del DNI
+### La letra del DNI
 
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|---|---|---|---|---|---|---|---|---|---|----|----|
-|T|R|W|A|G|M|Y|F|P|D|X|B|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 
+|---|---|---|---|---|---|---|---|
+|T|R|W|A|G|M|Y|F|
 
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-|----|----|----|----|----|----|----|----|----|----|----|
-|N|J|Z|S|Q|V|H|L|C|K|E|
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 
+|---|---|----|----|----|----|----|----|
+|P|D|X|B|N|J|Z|S|
+
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+|----|----|----|----|----|----|----|
+|Q|V|H|L|C|K|E|
 
 [46981892 % 23](https://www.google.es/search?q=46981892+%25+23&sxsrf=APq-WBvkLrYzGlsP8Di1iohR7xBKCcZvAQ%3A1650305349946&ei=RaldYqqmOcvUsAespaSQCA&ved=0ahUKEwjq3J3Bmp73AhVLKuwKHawSCYIQ4dUDCA4&uact=5&oq=46981892+%25+23&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzoECCMQJ0oECEEYAUoECEYYAFD5CljFEWDIE2gBcAB4AIABU4gBvAKSAQE0mAEAoAEBwAEB&sclient=gws-wiz-serp)
 = 22 => E
@@ -36,6 +40,8 @@ Esto: a76299605c4a32fc669459227124452e es el "¡Hola mundo!" en [MD5](https://md
 - Luego inventamos el fax.
 - Distribución y consenso
 
+
+## ¿Y dónde están lo críptico?
 
 
 ### POW / POS
