@@ -25,12 +25,14 @@ nav:
   - 'S01E02 - Ética y política': '02_ethics/index.md'
   - 'S01E03 - Estética': '03_aesthetics/index.md'
   - 'S01E04 - Mercado': '04_market/index.md'
+  - 'Recursos': 'resources.md'
   - 'A cerca de':
-      - 'Fran Simó': 'fran_simo.md'
-      - 'Casa Planas': 'casa_planas.md'
+      - 'Fran Simó': 'about/fran_simo.md'
+      - 'Casa Planas': 'about/casa_planas.md'
+      - 'Virtual Gallery Palma': 'about/virtual_gallery_palma.md'
       - 'License': 'license.md'
       - 'Release Notes': 'release-notes.md'
-  - 'Recursos': 'resources.md'
+
 
 theme:
   # name: mkdocs
