@@ -1,5 +1,7 @@
 # ¿Qué es un blockchain?
 
+Nota: estás páginas ahora son más un guión para la charla que una documentación. 
+
 ### La letra del DNI
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 
