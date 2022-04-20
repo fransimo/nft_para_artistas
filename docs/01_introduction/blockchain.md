@@ -1,36 +1,6 @@
 # ¿Qué es un blockchain?
 
-## ¿Qué es un NFT? 
-- Billetes
-- Entrada de cine
-- Valor del registro en un blockchian
-  - Propiedad intelectual
-  - ¿Hasta que la muerte nos separe? 
-  - [Ejemplo del casamiento](https://www.infofueguina.com/curiosas/2022/2/10/sellaron-su-matrimonio-con-blockchain-con-un-contrato-inteligente-de-ethereum-votos-en-formato-nft-62451.html)
-  - [Decentraland](https://www.lifestyleasia.com/bk/gear/tech/closeup-nft-marriage-certificate-get-married-in-the-metaverse/)
-  - Uso de los NFTs en el metaverso, noción de escases. Llevar un Armani en Decetraland.
-
-
-
-
-## _Ledger_ o Libro Mayor
-- Video 
-- Bloque
-- Cadena
-
-## ¿Qué es un token?
-- Y si, además, registramos cuantas naranjas y manzanas tiene Marcela?
-- Y si, además, registramos quién tiene cada una de las cámaras que fabricamos (identificadas por su número de serie) 
-
-## Diferencia de centralizado / descentralizado
-- Todos me llaman a mí para que registre cosas en un un libro
-- Luego inventamos el fax.
-- Distribución y consenso
-
-
-## ¿Y dónde están lo críptico?
-
-### La letra del DNI
+## La letra del DNI
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 |---|---|---|---|---|---|---|---|---|---|----|----|
@@ -50,6 +20,23 @@ Esto fue inventado como in dígito del control, una forma de saber si quien hab�
 ### Función de hash
 
 Esto: a76299605c4a32fc669459227124452e es el "¡Hola mundo!" en [MD5](https://md5calc.com/hash/md5/%C2%A1Hola+mundo%21).
+
+
+## _Ledger_ o Libro Mayor
+- Video 
+- Bloque
+- Cadena
+
+## ¿Qué es un token?
+- Y si, además, registramos cuantas naranjas y manzanas tiene Marcela?
+- Y si, además, registramos quién tiene cada una de las cámaras que fabricamos (identificadas por su número de serie) 
+
+## Diferencia de centralizado / descentralizado
+- Todos me llaman a mí para que registre cosas en un un libro
+- Luego inventamos el fax.
+- Distribución y consenso
+
+
 
 ### POW / POS
 

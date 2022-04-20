@@ -1,0 +1,3 @@
+# Estética en los mercados
+
+Nota: estás páginas ahora son más un guión para la charla que una documentación. 

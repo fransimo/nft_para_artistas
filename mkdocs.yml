@@ -10,8 +10,7 @@ nav:
   - 'Conexión': 'stream.md'
   - '¡Hola mundo!': 'hello_world.md'
   - 'S01E01 - Introducción':
-    - '¿Qué es un blockchain?': '01_introduction/blockchain.md'
-    - 'Plataformas':  '01_introduction/markets.md'
+    - '¿Qué es un NFT?': '01_introduction/nft.md'
     - 'Cómo crear un monedero Metamask': '01_introduction/metamask.md'
     - 'Comprar o vender NFT se hace con criptomonedas': '01_introduction/buy_sell.md'
     - 'Cómo crear una cuenta en OpenSea': '01_introduction/opensea.md'
@@ -20,6 +19,8 @@ nav:
     - 'Comprar NFTs': '01_introduction/buy_sell_nft.md'
     - 'Show me the money!': '01_introduction/show_me_the_money.md'
     - 'Cómo hacer colecciones colaborativas': '01_introduction/collab.md'
+    - '¿Qué es un blockchain?': '01_introduction/blockchain.md'
+    - 'Plataformas': '01_introduction/markets.md'
     - 'Ciber seguridad': '01_introduction/cyber_security.md'
   - 'S01E02 - Ética y política': '02_ethics/index.md'
   - 'S01E03 - Estética': '03_aesthetics/index.md'
