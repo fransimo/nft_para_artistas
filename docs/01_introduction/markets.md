@@ -13,3 +13,4 @@ publicar tu obra deberías escoger qué plataforma te interesa más.
 
 
 [Ranking por volumen](https://dappradar.com/nft/marketplaces)
+https://www.bestnfts.com/best-nft-marketplaces/
