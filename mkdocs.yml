@@ -34,6 +34,8 @@ nav:
       - 'License': 'license.md'
       - 'Release Notes': 'release-notes.md'
 
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   # name: mkdocs
