@@ -1,5 +1,7 @@
 # Show me the money!
 
-Nota: estás páginas ahora son más un guión para la charla que una documentación. 
+- Cómo van llegando los ETH a la cuenta del artista
+- Pero ¿puedo comprar en el super con ETH?
+- Sí, tienes que declarar a Hacienda
 
-Cómo van llegando los ETH a la cuenta del artista
+- Nota: estás páginas ahora son más un guión para la charla que una documentación. 

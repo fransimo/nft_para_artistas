@@ -2,6 +2,8 @@
 
 Nota: estás páginas ahora son más un guión para la charla que una documentación. 
 
+*Los tres conceptos importantes son: bloque, cadena y token.*
+
 ### La letra del DNI
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 
