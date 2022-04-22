@@ -7,7 +7,7 @@
     - En contra: kWh del minado
 - Redes POS, sus ventajas en el consumo y sus riesgos de centralización
 - [Why Argentina is embracing cryptocurrency](https://www.bbc.com/news/business-60912789). Sí, en el mundo crypto hay
-  estafas, pero hay estados que, aun con recursos casi ilimitados, sistemáticamente demusatran su incapacidad de
+  estafas, pero hay estados que, aun con recursos casi ilimitados, sistemáticamente demuestran su incapacidad de
   gestion, sin importar el partido que gobierne.
 
 ![ARSUSD](ARSUSD.png)
