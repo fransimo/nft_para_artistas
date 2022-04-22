@@ -23,6 +23,25 @@ copyright: Apache License - 2022 - Fran Simó
 
 plugins:
   - git-revision-date
+  - print-site:
+      add_to_navigation: false
+      print_page_title: 'Print Site'
+      add_print_site_banner: true
+      # Table of contents
+      add_table_of_contents: true
+      toc_title: 'Table of Contents'
+      toc_depth: 6
+      # Content-related
+      add_full_urls: false
+      enumerate_headings: true
+      enumerate_figures: true
+      add_cover_page: true
+      cover_page_template: ""
+      path_to_pdf: ""
+      include_css: true
+      enabled: true
+      exclude:
+
 nav:
   - 'Conexión': 'stream.md'
   - '¡Hola mundo!': 'hello_world.md'
@@ -50,6 +69,7 @@ nav:
       - 'Virtual Gallery Palma': 'about/virtual_gallery_palma.md'
       - 'License': 'license.md'
       - 'Release Notes': 'release-notes.md'
+  - 'Imprimir': '/print_page/'
 
 extra_css:
   - stylesheets/extra.css
