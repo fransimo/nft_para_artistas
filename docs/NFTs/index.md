@@ -20,3 +20,4 @@ docker run -ti geertjohan/gomatrix -k
 
 ## Extracción de los frames
 
+ffmpeg -ss 01:07 -to 01:10 -i 2022-04-05\ 13-01-39.mkv %05d.png
