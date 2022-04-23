@@ -4,8 +4,8 @@ Nota: estás páginas ahora son más un guión para la charla que una documentac
 
 Empezaremos por los conceptos más importantes. Luego haremos una sesión práctica y finalmente la parte más teórica.
 
-- Billetes y Entrada de cine
-- Valor del registro en un blockchian
+- Billetes y entrada de cine
+- Valor del registro en un blockchain
     - Propiedad intelectual
     - ¿Hasta que la muerte nos separe?
     - [Ejemplo del casamiento](https://www.infofueguina.com/curiosas/2022/2/10/sellaron-su-matrimonio-con-blockchain-con-un-contrato-inteligente-de-ethereum-votos-en-formato-nft-62451.html)

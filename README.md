@@ -25,4 +25,5 @@ mkdocs serve -a 0.0.0.0:8000
 - [Print](https://timvink.github.io/mkdocs-print-site-plugin/print_page.html)
 - [Charts](https://timvink.github.io/mkdocs-charts-plugin/usage/)
 
+# NFTs creados para el taller
 
