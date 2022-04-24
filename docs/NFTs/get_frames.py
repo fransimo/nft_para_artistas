@@ -66,7 +66,7 @@ def generate_nft(init_extraction, rewinds=3.5, capture=2):
              "Not your keys,\n    not your coins!",
              "Nunca muestres tu 'seed'\n\nQuien la tenga,\n    ¡tiene tu dinero!",
              "Tu 'wallet'\n\n no tiene el dinero,\n tiene las claves para...\n\n\n        ¡firmar!",
-             "EL NFT es\n\nun registro de propiedad\n\nde un OBJETO\nen un BLOCKCHAIN,\n\nno de los derechos\nde autor o reproducción.",
+             "El NFT es\n\nun registro de propiedad\n\nde un OBJETO\nen un BLOCKCHAIN,\n\nno de los derechos\nde autor o reproducción.",
              ]
 
     cmd, dest = get_frames('GIF', init_extraction, rewinds, capture)
