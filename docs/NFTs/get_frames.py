@@ -1,4 +1,5 @@
 import datetime
+import os
 
 
 def get_comand(init_extraction):
@@ -20,6 +21,7 @@ def get_comand(init_extraction):
 def get_frames(init_extraction):
     cmd = get_comand(init_extraction)
     print(cmd)
+    os.system(cmd)
 
 
 get_frames('00:01:00')
