@@ -16,7 +16,7 @@ def get_comand(init_extraction, rewinds, capture):
     t_init_sq_st = t_init_sq.strftime(time_format)
     t_end_sq_st = t_end_sq.strftime(time_format)
     cmd = f'ffmpeg -y -ss {t_init_sq_st} -to {t_end_sq_st} -i "{movie_location}" {frame_destination}/PNGs/{sq}_%05d.png'
-    cmd = f'ffmpeg -y -ss {t_init_sq_st} -to {t_end_sq_st} -i {sig} -i "{movie_location}" -f gif {frame_destination}/GIFs/{sq}.gif'
+    cmd = f'ffmpeg -y -ss {t_init_sq_st} -to {t_end_sq_st} -i "{movie_location}" -i {sig} -filter_complex "[0:v][1:v]" -pix_fmt -f gif {frame_destination}/GIFs/{sq}.gif'
     return cmd
 
 
