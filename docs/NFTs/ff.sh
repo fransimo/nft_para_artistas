@@ -4,10 +4,10 @@ ff() {
   sq=$1
   st=$2
   end=$3
-  echo ffmpeg -ss ${st} -to ${end} -i "$HOME/t/2022-04-05 13-01-39.mkv" ${sq}_%05d.png
+  ffmpeg -ss ${st} -to ${end} -i "$HOME/t/2022-04-05 13-01-39.mkv" /home/fran/synced/in_progress/2022_NFT-para-artistas/NFT_frames/${sq}_%05d.png
 }
 
-# +2seg
+# -5seg +1seg
 
-ff 001 01:00 01:03
-ff 002 01:13 01:14
+# ff 001 01:00 01:03
+ff 003 01:43 01:44
