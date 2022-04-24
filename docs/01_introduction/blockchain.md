@@ -4,7 +4,7 @@ Nota: estás páginas ahora son más un guión para la charla que una documentac
 
 *Los tres conceptos importantes son: bloque, cadena y token.*
 
-### La letra del DNI
+## La letra del DNI
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 
 |---|---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Esto fue inventado como in dígito del control, una forma de saber si quien hab�
 
 ¿Habéis visto la película de Enigma?
 
-### Función de hash
+## Función de hash
 
 Esto: a76299605c4a32fc669459227124452e es el "¡Hola mundo!" en [MD5](https://md5calc.com/hash/md5/%C2%A1Hola+mundo%21).
 
@@ -44,18 +44,20 @@ Esto: a76299605c4a32fc669459227124452e es el "¡Hola mundo!" en [MD5](https://md
 - Luego inventamos el fax.
 - Distribución y consenso
 
+## POW / POS
 
-## ¿Y dónde están lo críptico?
+¿Cómo se pueden poner de acuerdo un conjunto de ordenadores anónimos?
 
+## Impacto medioambiental
 
-### POW / POS
+[//]: # (TODO Buscar consumo de un ASIC.)
+[//]: # (TODO Link Cambridge)
 
-### Impacto medioambiental
+## Diferentes redes de blockchain
 
-## Diferentes blockchain
-- BTC
-- ETH
-- TEZ
-- SOL
+- BTC, Bitcoin
+- ETH, Ethereum
+- TEZ, Tezos
+- SOL, Solana
 
 
