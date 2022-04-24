@@ -1,6 +1,7 @@
 import datetime
 import os
 import io
+import random
 from PIL import Image, ImageDraw, ImageSequence, ImageFont
 
 
@@ -57,11 +58,21 @@ def get_command(type, init_extraction, rewinds, capture):
 def get_frames(type, init_extraction, rewinds, capture):
     cmd, dest = get_command(type, init_extraction, rewinds, capture)
     os.system(cmd)
-    if type == 'GIF':
-        add_text_layer_gif('/tmp/tmp.gif', dest, "En los blockchain con NFTs\ntodas las operaciones \nson visibles.")
+    return cmd, dest
+
 
 def generate_nft(init_extraction, rewinds=3.5, capture=2):
-    get_frames('GIF', init_extraction, rewinds, capture)
+    texts = ["En los blockchain \ncapaces de contener NFTs \ntodas las operaciones \nson visibles.",
+             "Not your keys,\n    not your coins!",
+             "Nunca muestres tu 'seed'\n\nQuien la tenga,\n    ¡tiene tu dinero!",
+             "Tu 'wallet'\n\n no tiene el dinero,\n tiene las claves para...\n\n\n        ¡firmar!",
+             "EL NFT es\n\nun registro de propiedad\n\nde un OBJETO\nen un BLOCKCHAIN,\n\nno de los derechos\nde autor o reproducción.",
+             ]
+
+    cmd, dest = get_frames('GIF', init_extraction, rewinds, capture)
+    end = len(texts) - 1
+    text = texts[random.randint(0, end)]
+    add_text_layer_gif('/tmp/tmp.gif', dest, text)
 
 
 # get_frames('00:01:00')
