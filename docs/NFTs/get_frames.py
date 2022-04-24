@@ -5,7 +5,7 @@ import os
 def get_comand(init_extraction):
     time_format = '%H:%M:%S'
     rewinds = 5
-    capture = 1
+    capture = 2
     movie_location = "/home/fran/t/2022-04-05 13-01-39.mkv"
     frame_destination = "/home/fran/synced/in_progress/2022_NFT-para-artistas/NFT_frames/"
 
