@@ -77,8 +77,7 @@ def generate_nft(init_extraction, rewinds=3.5, capture=2):
 
 # get_frames('00:01:00')
 generate_nft('00:01:13')
-exit(0)
-
+# exit(0)
 generate_nft('00:01:18', rewinds=5, capture=2)
 generate_nft('00:01:48', rewinds=4, capture=2)
 # get_frames('00:01:59')
