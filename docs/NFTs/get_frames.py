@@ -50,7 +50,7 @@ def get_command(type, init_extraction, rewinds, capture):
         cmd = f'ffmpeg -y -ss {t_init_sq_st} -to {t_end_sq_st} -i "{movie_location}" {dest}'
     elif type == 'GIF':
         dest = f'{frame_destination}/GIFs/{sq}.gif'
-        cmd = f'ffmpeg -y -ss {t_init_sq_st} -to {t_end_sq_st} -i "{movie_location}" -f gif  {dest}'
+        cmd = f'ffmpeg -y -ss {t_init_sq_st} -to {t_end_sq_st} -i "{movie_location}" -f gif  /tmp/tmp.gif'
 
     return cmd, dest
 
@@ -58,7 +58,7 @@ def get_frames(type, init_extraction, rewinds, capture):
     cmd, dest = get_command(type, init_extraction, rewinds, capture)
     os.system(cmd)
     if type == 'GIF':
-        add_text_layer_gif(dest, dest, "En los blockchain con NFTs\ntodas las operaciones \nson visibles.")
+        add_text_layer_gif('/tmp/tmp.gif', dest, "En los blockchain con NFTs\ntodas las operaciones \nson visibles.")
 
 def generate_nft(init_extraction, rewinds=3.5, capture=2):
     get_frames('GIF', init_extraction, rewinds, capture)
@@ -66,6 +66,8 @@ def generate_nft(init_extraction, rewinds=3.5, capture=2):
 
 # get_frames('00:01:00')
 generate_nft('00:01:13')
+exit(0)
+
 generate_nft('00:01:18', rewinds=5, capture=2)
 generate_nft('00:01:48', rewinds=4, capture=2)
 # get_frames('00:01:59')
@@ -76,8 +78,7 @@ generate_nft('00:05:12', rewinds=4, capture=2)
 # get_frames('00:09:29', rewinds=3, capture=1)
 generate_nft('00:12:38', rewinds=3, capture=1)
 # get_frames('00:18:36', rewinds=3, capture=3)
-generate_nft('00:19:04')
-rewinds=3, capture=5)
+generate_nft('00:19:04', rewinds=3, capture=5)
 # get_frames('00:19:09')
 # get_frames('00:19:29', rewinds=3.5, capture=5)
 # get_frames('00:20:04', rewinds=3.5, capture=5)
