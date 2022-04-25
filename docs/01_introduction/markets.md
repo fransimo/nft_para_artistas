@@ -1,9 +1,5 @@
 # Mercados y otras iniciativas
 
-!!! note "Nota:" 
-    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
-    avanzando en los debates.
-
 Para la parte práctica utilizaremos OpenSea porque no tiene barreras de entrada ni casi costos. A la hora de 
 publicar tu obra deberías escoger qué plataforma te interesa más.
 
@@ -40,3 +36,8 @@ casi imposible probar todo lo que se genera en este espacio.
 - [Unseen by Emanuele Ferrari](https://opensea.io/collection/unseen-emanuele-ferrari), [web](https://www.emanueleferrari.photography/#8), 55 ETH, 71 coleccionistas
 - [Keepers of the Inn by Julie_Pacino](https://opensea.io/collection/keepers-of-the-inn), 196 ETH, 71 coleccionistas
 - [1111 by Kevin Abosch](https://opensea.io/collection/1111-by-kevin-abosch) 5900 ETH = 17,477,131.40 (tarded) [Wallet en etherscan](https://etherscan.io/address/0x3cC435694547CC536106fD54fD11D88D2a85B611#analytics)
+
+
+!!! note "Nota:" 
+    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
+    avanzando en los debates.
