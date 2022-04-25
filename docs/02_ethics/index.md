@@ -1,5 +1,9 @@
 # Impacto medioambiental, ética, política y estafas (debate)
 
+!!! note "Nota:" 
+    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
+    avanzando en los debates.
+
 - Crear o participar en una economía basada en criptomonedas es un acto político.
 - Privacidad, Cyberanarquismo y todo lo que no es Bitcoin (ni Ethereum)
 - Consumo energético de POW
@@ -15,6 +19,3 @@
 - Pagar impuestos es subvencionar ejércitos... también la seguridad social.
 - DAOs
 - JPMorgan ahora es pro-crypto
-
-
-Nota: estás páginas ahora son más un guión para la charla que una documentación. 

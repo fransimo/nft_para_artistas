@@ -1,6 +1,8 @@
 # ¿Qué es un NFT?
 
-Nota: estás páginas ahora son más un guión para la charla que una documentación.
+!!! note "Nota:" 
+    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
+    avanzando en los debates.
 
 Empezaremos por los conceptos más importantes. Luego haremos una sesión práctica y finalmente la parte más teórica.
 
