@@ -3,6 +3,9 @@
 Para la parte práctica utilizaremos OpenSea porque no tiene barreras de entrada ni casi costos. A la hora de 
 publicar tu obra deberías escoger qué plataforma te interesa más.
 
+Importante: aquí hay links de redes y servicios que no he utilizado, solo son una muestra de las posibilidades. Es 
+casi imposible probar todo lo que se genera en este espacio.
+
 ## Mercados abiertos
 - [OpenSea](https://opensea.io/)
 - [Rarible](https://rarible.com/)
@@ -16,6 +19,7 @@ publicar tu obra deberías escoger qué plataforma te interesa más.
 - [Ephimera](https://ephimera.com/)
 - [500px](https://500px.com/vault)
 - [AP to launch NFT photography marketplace built by Xooa](https://www.ap.org/press-releases/2022/ap-to-launch-nft-marketplace-built-by-xooa), [Market](https://apmarket.xooa.com/)
+- [agoraawards](https://nft.agoraawards.com/)
 
 ## Información general
 - [Ranking por volumen](https://dappradar.com/nft/marketplaces)
