@@ -25,7 +25,9 @@ plan tener el nombre de un político corrupto asociado a un número.
 Jason solo tuvo que dar ese número 000-7-17-12... y pudo abrir una caja de seguridad.
 
 Tu seed phrase es ese número. Pero tiene la ventaja de que puede generar un número de cuenta, que lo puedes dar, pero 
-que no se puede utilizar para sacar el dinero o firmar en tu nombre.
+que no se puede utilizar para sacar el dinero o firmar en tu nombre. Lo puedes dar para recibir dinero, pero a 
+diferencia de un banco tradicional todo el mundo verá lo que tienes, lo que recibes, de quién. Además, todo lo que 
+esté publicado con ese número de cuenta habrá sido "firmado" por tí (en web de confianza).
 
 ## Cuenta
 
