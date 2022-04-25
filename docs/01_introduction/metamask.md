@@ -1,5 +1,9 @@
 # Crear "monedero"
 
+!!! note "Nota:" 
+    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
+    avanzando en los debates.
+
 Conceptos importantes: cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
 
 ## Instalar Metmask
@@ -55,4 +59,3 @@ que es ir a [polygonscan](https://polygonscan.com/) y agregar la red con el íco
 
 Conceptos importantes: cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
 
-Nota: estás páginas ahora son más un guión para la charla que una documentación. 

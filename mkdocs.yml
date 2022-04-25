@@ -42,6 +42,11 @@ plugins:
       enabled: true
       exclude:
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - 'Conexión': 'stream.md'
   - '¡Hola mundo!': 'hello_world.md'
