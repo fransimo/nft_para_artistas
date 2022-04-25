@@ -24,7 +24,7 @@ que esas palabras son tu dinero y tu identidad.
 suizas, solo con saber el número te daban el dinero porque no guardaban información de quién eras. No suele ser buen 
 plan tener el nombre de un político corrupto asociado a un número.
 
-![](Jason.png)
+![](Jason.png){ align=center }
 
 Jason solo tuvo que dar ese número 000-7-17-12... y pudo abrir una caja de seguridad.
 

@@ -46,6 +46,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
 
 nav:
   - 'Conexión': 'stream.md'
