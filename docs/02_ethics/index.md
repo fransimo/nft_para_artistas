@@ -12,6 +12,7 @@
 - Proyectos que agregan valor usando blockchain: ETH, HNT, MYST
 - Distruir siempre es buena idea, pero tiene que hacerse bien. El 51% de los ordenadores de consenso pueden contrlar el
   blockchain ¿qué pasaría si los mineros de Bitcoin estuvieran todos en un único pais o zona política?
+- [Export of cryptography from the United States](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States)
 
 ![ARSUSD](ARSUSD.png)
 

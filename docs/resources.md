@@ -2,10 +2,12 @@
 
 - Metamask
 - Opensea
-- Show me
-- Tree
-- Ledger
-- gBTC
+- Social
+    - [Show time](https://showtime.io/)
+    - [Link Tree](https://linktr.ee/)
+    - [Clubhouse](https://www.clubhouse.com/)
+- [Ledger](http://ledger.refr.cc/fransimo)
+- [gBTC Finance](https://app.gbtcfinance.es/register?r=30882006)
     - [gBTC de Palma](https://coinatmradar.com/bitcoin_teller/32744/bitcoin-teller-bitcoin-teller-palma-de-mallorca-gbtc-mallorca/) 
 - Bit re fill
 - DEXs
