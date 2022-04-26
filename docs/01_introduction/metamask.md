@@ -3,6 +3,9 @@
 !!! note "Conceptos importantes:"
     Monederos, cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
 
+## Cuenta
+
+El wallet con la clave privada puede generar, al menos, una clave pública.  
 
 ## Instalar Metmask
 

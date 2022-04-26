@@ -1,15 +1,20 @@
 # Enlaces
 
-- Metamask
+- Wallet de hardware
+    - [Ledger](http://ledger.refr.cc/fransimo)
+    - [Trezor](https://trezor.io/)
+- Wallet de software
+    - Metamask
 - Opensea
 - Social
-    - [Show time](https://showtime.io/)
-    - [Link Tree](https://linktr.ee/)
-    - [Clubhouse](https://www.clubhouse.com/)
-- [Ledger](http://ledger.refr.cc/fransimo)
-- [gBTC Finance](https://app.gbtcfinance.es/register?r=30882006)
-    - [gBTC de Palma](https://coinatmradar.com/bitcoin_teller/32744/bitcoin-teller-bitcoin-teller-palma-de-mallorca-gbtc-mallorca/) 
-- Bit re fill
+    - [Show time](https://showtime.io/): Mostrar colecciones
+    - [Link Tree](https://linktr.ee/): Muy usuado en todos los perfiles solciales para tener solo una URL de enlaces.
+    - [Clubhouse](https://www.clubhouse.com/): La comunidad NFT es muy activa 
+- Cajeros crytpo: para poder comprar y vender crypto con efectivo.
+    - [Encontrar cajeros](https://coinatmradar.com/)
+    - [gBTC Finance](https://app.gbtcfinance.es/register?r=30882006)
+        - [gBTC de Palma](https://coinatmradar.com/bitcoin_teller/32744/bitcoin-teller-bitcoin-teller-palma-de-mallorca-gbtc-mallorca/) 
+- [bitrefill](https://www.bitrefill.com/): Comprar tarjetas de regalo con crypto.
 - DEXs
 - CEXs
     - Binance
@@ -19,7 +24,7 @@
     - Lunaticoin
     - Coinboreau
     - Alguno de seguridad
-- Bitcoin Mallorca
+- Bitcoin Mallorca en Meetup
 - Libros?
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
