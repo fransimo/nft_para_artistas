@@ -8,7 +8,7 @@
 - Opensea
 - Social
     - [Show time](https://showtime.io/): Mostrar colecciones
-    - [Link Tree](https://linktr.ee/): Muy usuado en todos los perfiles solciales para tener solo una URL de enlaces.
+    - [Link Tree](https://linktr.ee/): Muy usual en todos los perfiles sociables para tener solo una URL de enlaces.
     - [Clubhouse](https://www.clubhouse.com/): La comunidad NFT es muy activa 
 - Cajeros crytpo: para poder comprar y vender crypto con efectivo.
     - [Encontrar cajeros](https://coinatmradar.com/)
