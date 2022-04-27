@@ -3,7 +3,8 @@
 !!! note "Conceptos importantes:"
     El valor de un NFT es el registro de propiedad en el blockchain. Esta propiedad es solo del objeto no de los derechos sobre la obra. 
 
-Empezaremos por los conceptos más importantes. Luego haremos una sesión práctica y finalmente la parte más teórica.
+Empezaremos por los conceptos más importantes. Luego haremos una sesión teórica y finalmente la parte más 
+práctica.
 
 - Billetes y entrada de cine
 - Valor del registro en un blockchain
