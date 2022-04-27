@@ -1,12 +1,24 @@
 # Colección: Conceptos NFT para Artistas
 
-## Idea
+![Love](PNGs/01_22_40_00020.png)
+
+La vida de una pareja de artistas se entrelaza con la deshumanización de una industria avocada a la automatización 
+sin límites, en una sociedad reprimida y llena de procesos kafkianos, pobreza y desempleo. Pero mientras tanto, las 
+máquinas han evolucionado y la fuerza de la vida ha entrado en ellas también. El error las hará nacer y el amor 
+evolucionar. Al final, "el futuro no está escrito." Y el amor es el único camino, compartir y construir juntos.
+
+![Society](PNGs/00_01_13_00025.png)
+
+
+## Origen de la idea
 Tiempos Modernos = la búsqueda de la felicidad, la lucha de una pareja de artistas, la tiranía de la automatización y la
 productividad, una crisis nerviosa, droga, encarcelados por manifestarse (aunque no lo estuviera haciendo), el
 azar, estereotipos sociales, desempleo, pobreza, crisis económica. Al final: futuro, esperanza y amor.
 
 Ghost in the Shell = ciberpunks, ciberseguridad, control policial, vida artificial, software que nace, desarrolladores
 que pierden el control de su código y también al final: futuro, esperanza y amor.
+
+Terminator = I) "The storm is coming" II "The unknown future rolls towards us"...
 
 ### Modern times (1936)
 
