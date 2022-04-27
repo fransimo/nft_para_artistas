@@ -1,10 +1,11 @@
 # Crear "monedero"
 
-!!! note "Nota:" 
-    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
-    avanzando en los debates.
+!!! note "Conceptos importantes:"
+    Monederos, cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
 
-Conceptos importantes: cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
+## Cuenta
+
+El wallet con la clave privada puede generar, al menos, una clave pública.  
 
 ## Instalar Metmask
 
@@ -24,7 +25,7 @@ que esas palabras son tu dinero y tu identidad.
 suizas, solo con saber el número te daban el dinero porque no guardaban información de quién eras. No suele ser buen 
 plan tener el nombre de un político corrupto asociado a un número.
 
-![](Jason.png)
+![](Jason.png){ align=left }
 
 Jason solo tuvo que dar ese número 000-7-17-12... y pudo abrir una caja de seguridad.
 
@@ -57,5 +58,8 @@ es para nada un sistema anónimo. Lo iremos viendo.
 Ahora tenemos que agregar la red de polygon. En la [documentación oficial](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/) hay dos métodos, usaremos el más sencillo 
 que es ir a [polygonscan](https://polygonscan.com/) y agregar la red con el ícono que hay al final de la página.
 
-Conceptos importantes: cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
+![img.png](polygon_network.png)
+
+!!! note "Conceptos importantes:"
+    Monederos, cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
 

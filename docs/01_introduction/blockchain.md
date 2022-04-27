@@ -1,10 +1,7 @@
 # ¿Qué es un blockchain?
 
-!!! note "Nota:" 
-    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
-    avanzando en los debates.
-
-*Los tres conceptos importantes son: bloque, cadena y token.*
+!!! note "Conceptos importantes:"
+    Bloque, cadena, token y red.
 
 ## La letra del DNI
 
@@ -63,3 +60,9 @@ Esto: a76299605c4a32fc669459227124452e es el "¡Hola mundo!" en [MD5](https://md
 - SOL, Solana
 
 
+!!! note "Conceptos importantes:"
+    Bloque, cadena, token y red.
+
+!!! note "Nota:" 
+    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos 
+    avanzando en los debates.

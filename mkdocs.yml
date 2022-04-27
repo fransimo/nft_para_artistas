@@ -46,6 +46,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
 
 nav:
   - 'Conexión': 'stream.md'
@@ -58,6 +61,7 @@ nav:
     - 'Comprar o vender NFT se hace con criptomonedas': '01_introduction/buy_sell.md'
     - 'Cómo crear una cuenta en OpenSea': '01_introduction/opensea.md'
     - 'Cómo crear una colección': '01_introduction/collection.md'
+    - 'Colección: Conceptos NFT para Artistas': 'NFTs/index.md'
     - 'Publicación de NFTs, opciones de venta, subasta, etc.': '01_introduction/publish.md'
     - 'Comprar NFTs': '01_introduction/buy_sell_nft.md'
     - 'Show me the money!': '01_introduction/show_me_the_money.md'
