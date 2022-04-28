@@ -2,6 +2,7 @@
 
 !!! note "Vídeo"
     Puedes ver el vídeo de esta sesión en [YouTube](https://youtu.be/eGfiO_E1uCA).
+    El vídeo de la charla se volverá a publicar en cápsulas más pequeñas y sin los nervios del directo :satisfied:
 
 Para la parte práctica utilizaremos OpenSea porque no tiene barreras de entrada ni casi costos. A la hora de 
 publicar tu obra deberías escoger qué plataforma te interesa más.

@@ -17,5 +17,5 @@ aprender para los artistas.
     - Tarjetas de créditos de Carrefour, IKEA, Amazon, etc. 
 
 !!! note "Nota:"
-Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos avanzando en los
-debates.
+    Estás páginas ahora son más un guión para la charla que una documentación. Iran mejorando según vayamos avanzando en los
+    debates.

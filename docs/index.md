@@ -7,6 +7,8 @@ los NFTs. Todos los eventos de la serie serán gratuitos.
 El [**primer ha sido el 27 de abril a las 19:00**](01_introduction/nft.md). Fue una clase guiada en la que hicimos una introducción a los conceptos básicos de la tecnología del blockchain mientras
 dimos los pasos prácticos. Al final de la clase publicamos un NFT. Puedes ver el vídeo en [YouTube](https://youtu.be/eGfiO_E1uCA).
 
+El vídeo de la charla se volverá a publicar en cápsulas más pequeñas y sin los nervios del directo :satisfied:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eGfiO_E1uCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
