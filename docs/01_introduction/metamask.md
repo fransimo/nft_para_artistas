@@ -5,6 +5,8 @@
     
     Puedes ver el vídeo de esta sesión en [YouTube](https://youtu.be/eGfiO_E1uCA).
 
+    El vídeo de la charla se volverá a publicar en cápsulas más pequeñas y sin los nervios del directo :satisfied:
+
 ## Cuenta
 
 El wallet con la clave privada puede generar, al menos, una clave pública.  
