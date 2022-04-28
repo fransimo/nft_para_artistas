@@ -2,6 +2,8 @@
 
 !!! note "Conceptos importantes:"
     Bloque, cadena, token y red.
+    
+    Puedes ver el vídeo de esta sesión en [YouTube](https://youtu.be/eGfiO_E1uCA).
 
 ## La letra del DNI
 

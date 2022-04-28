@@ -51,8 +51,8 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - 'Conexión': 'stream.md'
-  - '¡Hola mundo!': 'hello_world.md'
+  # - 'Conexión': 'stream.md'
+  # - '¡Hola mundo!': 'hello_world.md'
   - 'S01E01 - Introducción':
     - '¿Qué es un NFT?': '01_introduction/nft.md'
     - 'Plataformas y proyectos': '01_introduction/markets.md'
