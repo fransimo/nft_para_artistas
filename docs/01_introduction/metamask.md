@@ -2,6 +2,8 @@
 
 !!! note "Conceptos importantes:"
     Monederos, cuenta, claves privadas. Relacionar con la tarjeta de débito, el pin y el chip.
+    
+    Puedes ver el vídeo de esta sesión en [YouTube](https://youtu.be/eGfiO_E1uCA).
 
 ## Cuenta
 

@@ -1,13 +1,15 @@
 # Colección: Conceptos NFT para Artistas
 
-![Love](PNGs/01_22_40_00020.png)
+[![Love](PNGs/01_22_40_00020.png)](https://opensea.io/collection/nft-para-artistas)
 
 La vida de una pareja de artistas se entrelaza con la deshumanización de una industria avocada a la automatización 
 sin límites, en una sociedad reprimida y llena de procesos kafkianos, pobreza y desempleo. Pero mientras tanto, las 
 máquinas han evolucionado y la fuerza de la vida ha entrado en ellas también. El error las hará nacer y el amor 
 evolucionar. Al final, "el futuro no está escrito." Y el amor es el único camino, compartir y construir juntos.
 
-![Society](PNGs/00_01_13_00025.png)
+[@ OpenSea](https://opensea.io/collection/nft-para-artistas)
+
+[![Society](PNGs/00_01_13_00025.png)](https://opensea.io/collection/nft-para-artistas)
 
 
 ## Origen de la idea
