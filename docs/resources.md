@@ -4,8 +4,8 @@
     - [Ledger](http://ledger.refr.cc/fransimo)
     - [Trezor](https://trezor.io/)
 - Wallet de software
-    - Metamask
-- Opensea
+    - [Metamask](https://metamask.io/)
+- [Opensea](https://opensea.io/)
 - Social
     - [Show time](https://showtime.io/): Mostrar colecciones
     - [Link Tree](https://linktr.ee/): Muy usual en todos los perfiles sociables para tener solo una URL de enlaces.
