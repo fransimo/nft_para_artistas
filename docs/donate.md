@@ -5,7 +5,7 @@ ingresos de ningún tipo. Por eso, si el contenido te parece valioso te animo a 
 alguna donación con cualquiera de los medios que encontrarás más abajo.
 
 Ya que has terminado de hacer un curso de NFTs, sabes como comprar cryptos lo suyo sería que compras alguno de mis NFTS.
-La colección que crearemos para el taller tendrá NFTs muy baratos y sin huella de carbono.
+La colección que crearemos para el taller tendrá NFTs muy baratos y sin huella de carbono. La puedes ver en [OpenSea](https://opensea.io/collection/nft-para-artistas)
 
 De todas formas, si no te quieres casar conmigo en tu colección de NFTs, puedes enviar cryto a cualquiera de las
 direcciones de abajo. Si tu monedero acepta ENS puedes usar fransimo.eth
