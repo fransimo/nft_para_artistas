@@ -52,8 +52,6 @@ the tyranny of automation.
 as the couple walks arm in arm with a smile on their face towards the unknown future with hopes in their heart.
 [MoumitaGhorai](https://moumitaghorai.wordpress.com/2015/07/27/modern-times-chaplins-satirical-masterpiece-on-the-great-depression/)
 
-## Configuración de la colección en OpenSea
-
 ## NFTs
 
 ### 00_01_13.gif
