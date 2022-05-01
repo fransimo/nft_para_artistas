@@ -1,6 +1,6 @@
 # Colección: Conceptos NFT para Artistas
 
-[![Love](PNGs/01_22_40_00020.png)](https://opensea.io/collection/nft-para-artistas)
+[![Love](PNGs/01_22_40_00020.png)](https://opensea.io/collection/nft-para-artistas?search[sortAscending]=true&search[sortBy]=CREATED_DATE)
 
 La vida de una pareja de artistas se entrelaza con la deshumanización de una industria abocada a la automatización sin límites, en una sociedad reprimida y llena de procesos kafkianos, pobreza y desempleo. 
 
@@ -8,9 +8,9 @@ Mientras tanto, las  máquinas han evolucionado y la fuerza de la vida ha entrad
 
 Al final, "el futuro no está escrito". El amor es el único camino, compartir y construir juntos.
 
-[@ OpenSea](https://opensea.io/collection/nft-para-artistas)
+[@ OpenSea](https://opensea.io/collection/nft-para-artistas?search[sortAscending]=true&search[sortBy]=CREATED_DATE)
 
-[![Society](PNGs/00_01_13_00025.png)](https://opensea.io/collection/nft-para-artistas)
+[![Society](PNGs/00_01_13_00025.png)](https://opensea.io/collection/nft-para-artistas?search[sortAscending]=true&search[sortBy]=CREATED_DATE)
 
 
 ## Origen de la idea
@@ -62,7 +62,7 @@ as the couple walks arm in arm with a smile on their face towards the unknown fu
 
 ### 00_01_18.gif
 
-![00_01_18.gif](GIFs/00_01_18.gif){ loading=lazy }
+[![00_01_18.gif](GIFs/00_01_18.gif){ loading=lazy }](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/11780915356901891937150191052604117223978980698243640119023280876173471515624)
 
 ### 00_01_48.gif
 
