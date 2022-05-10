@@ -154,6 +154,7 @@ professional photographers of Barcelona Area.
 
 ## Workshops, lectures, debates
 
+- [NFT para Artistas](https://nft-para-artistas.fransimo.info/) 2022.
 - [TECNOLOGIA I SUPORTS](https://jornadesfotografiadocumental.wordpress.com/) for Jornadas de Fotografía Documental 2013
 - [Online marketing for photographers](http://fransimo.info/blog/2009/12/22/charla-marketing-on-line-para-fotografos/)
   for Barcelona Photobloggers, Barcelona, 2009.
