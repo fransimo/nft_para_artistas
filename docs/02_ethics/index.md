@@ -1,4 +1,4 @@
-# Impacto medioambiental, ética, política y estafas (debate)
+# Ética y política: desde el impacto medioambiental al sueño de la libertad digital.
 
 - [El Manifiesto Criptoanarquista](https://es.wikisource.org/wiki/El_Manifiesto_Criptoanarquista) Timothy C. May - 1988
 - [Declaración de independencia del ciberespacio](https://es.wikisource.org/wiki/Declaraci%C3%B3n_de_independencia_del_ciberespacio) John Perry Barlow - 1996
